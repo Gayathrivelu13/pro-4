@@ -1,0 +1,24 @@
+.gg{
+    background-color:blue;
+    text-align: center;
+    width:300px;
+    height: 450px;
+}
+body{
+    background-color: green;
+    cursor:pointer;
+    text-align: center;
+    align-content: center;
+
+}
+#bin{
+    background-color: rgb(3,40,3);
+    height:0.75cm;
+    width:6cm;
+    color:white;
+    border-radius:35px;
+}
+.gender{
+    width:5cm;
+    height: 0.60cm;
+}
